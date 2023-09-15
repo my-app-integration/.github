@@ -1,6 +1,6 @@
 # Welcome to MyAppIntegration
 
-![MyAppIntegration Logo](link_to_logo.png)
+![MyAppIntegration Logo](app-integration-github-local.png)
 
 ## 📖 About Us
 
