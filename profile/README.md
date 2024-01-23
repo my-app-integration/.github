@@ -1,5 +1,7 @@
 # Welcome to MyAppIntegration
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyAppIntegration&show_icons=true&theme=dark&count_private=true)
+
 ![MyAppIntegration Logo](app-integration-github-local.png)
 
 ## 📖 About Us
